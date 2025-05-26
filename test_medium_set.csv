@@ -1,0 +1,31 @@
+City,Capital,Coastal,PopOver5M,HasMetro,EnglishOfficial
+Tokyo,0,1,1,1,0
+London,1,1,1,1,1
+Paris,1,0,1,1,1
+New York,0,1,1,1,1
+Sydney,0,1,0,1,1
+Rio de Janeiro,0,1,1,1,1
+Beijing,1,0,1,1,0
+Moscow,1,0,1,1,0
+Cairo,1,0,1,1,0
+Toronto,0,0,1,1,1
+Los Angeles,0,1,1,1,1
+Mumbai,0,1,1,0,0
+Rome,1,0,0,1,0
+Berlin,1,0,0,1,0
+Buenos Aires,1,1,1,0,1
+Singapore,0,1,1,1,1
+Istanbul,0,1,1,0,1
+Dubai,0,1,1,1,0
+Mexico City,1,0,1,1,0
+Amsterdam,0,1,0,1,0
+Seoul,1,0,1,1,0
+Hong Kong,0,1,1,1,1
+Barcelona,0,1,0,1,0
+Delhi,1,0,1,1,0
+Stockholm,1,1,0,1,0
+Osaka,0,1,1,1,0
+Chicago,0,0,1,1,1
+Kuala Lumpur,1,0,1,1,1
+Santiago,1,0,1,1,0
+São Paulo,0,0,1,1,0
